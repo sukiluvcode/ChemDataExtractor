@@ -36,4 +36,3 @@ from .selector import Selector, SelectorList
 from .pub.nlm import NlmXmlDocument
 from .pub.rsc import RscHtmlDocument
 from .pub.springer import SpringerXmlDocument
-a = 5
